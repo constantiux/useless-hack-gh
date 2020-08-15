@@ -1,7 +1,7 @@
 import json
 
 def loadme():
-  with open('data.json', 'r') as f:
+  with open('./data.json', 'r') as f:
     data_json = json.load(f)
   return data_json
 
