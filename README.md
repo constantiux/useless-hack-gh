@@ -2,7 +2,5 @@
 
 ## TODOs
 
-- [] Maintain modularity
-- [] Testing usability
-- [] Pip package bone structure
-- [] Finale
+- [X] Maintain modularity
+- [ ] Testing usability
