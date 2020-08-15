@@ -1,4 +1,5 @@
 import stocks
+import evaluate
 
 def header():
   print("====================")
@@ -29,7 +30,7 @@ def say():
     elif choice == "2":
       stocks.start('inventory')
     elif choice == "3":
-      print("Three")
+      evaluate.start()
 
 
 say()
